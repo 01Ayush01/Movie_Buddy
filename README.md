@@ -6,4 +6,4 @@ Team Members:
 --Ayush Choudhary  
 --Niraj Bharti  
 --Shanti Lal Suthar  
---Ruhaan Ahmed  
+--Ruhaan Ahmad  
