@@ -4,7 +4,7 @@ def check_password_strength(password):
     errors = []
     length = len(password)
     if length <=5:
-        print("Password should consist atleast 6 digits")
+        print("Password should consist atleast 6 characters")
         return "Password too short"
     else:
         if re.search(r"[A-Z]", password):
